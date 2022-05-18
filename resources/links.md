@@ -6,4 +6,4 @@
 * [Github Lab](https://lab.github.com/)
 * [Dang It Git](https://dangitgit.com/en)
 * [Githb Desktop Installation](https://desktop.github.com/)
-* [Github Desltop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+* [Github Desktop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
